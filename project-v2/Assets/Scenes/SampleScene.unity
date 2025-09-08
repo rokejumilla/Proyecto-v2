@@ -596,6 +596,7 @@ MonoBehaviour:
   puntosIniciales: 5
   puntosUI:
   - {fileID: 643159638}
+  - {fileID: 643159638}
   - {fileID: 299772923}
   - {fileID: 12396905}
   - {fileID: 462407879}
@@ -1534,7 +1535,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26414dde2c04edb41b9a15d14ee4b21e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidad: 5
+  velocidad: 7
 --- !u!61 &1703718130
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1726,7 +1727,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 585a0718c6274064aa8e64cc95b94450, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fuerzaSalto: 5
+  fuerzaSalto: 6
 --- !u!114 &1703718136
 MonoBehaviour:
   m_ObjectHideFlags: 0
